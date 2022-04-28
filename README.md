@@ -2,7 +2,7 @@
 A local library dashboard that will show which books are available, which are currently out, and other general statistics about the library.
 
 ### The dashoard should show as follows:
-![Home view of Local library dashboard](.docs/images/local-library-dashboard.png)
+![Home view of local library dashboard](/docs/images/local-library-dashboard.png)
 
 ### Account functions
 
