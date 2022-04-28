@@ -1,9 +1,10 @@
 # Project-Local-library
 A local library dashboard that will show which books are available, which are currently out, and other general statistics about the library.
 
-### Account functions
+### The dashoard should show as follows:
+![Home view of Local library dashboard](.docs/images/local-library-dashboard.png)
 
-![image.png](//res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/11c23e4622a87eab216668be31c759ac-image.png)
+### Account functions
 
 #### findAccountById()
 
@@ -46,7 +47,6 @@ It returns an array of book objects, including author information, that represen
 
 ### Book functions
 
-![image.png](//res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/9012c8115fddba330e4958c3a907bcaa-image.png)
 
 #### findAuthorById()
 
@@ -91,7 +91,6 @@ It should return an array of ten or fewer account objects that represents the ac
 
 ## Home functions
 
-![image.png](//res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/6e9b6e3b27d21cff7c80cd9efec9c421-image.png)
 
 ### getTotalBooksCount()
 
